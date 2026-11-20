@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/thanu2509/leetcode/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/thanu2509/leetcode/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/thanu2509/leetcode/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/thanu2509/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/thanu2509/leetcode/tree/master/0796-rotate-string) |
 ## Trie
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/thanu2509/leetcode/tree/master/0451-sort-characters-by-frequency) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/thanu2509/leetcode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
