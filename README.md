@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/thanu2509/leetcode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/thanu2509/leetcode/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/thanu2509/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/thanu2509/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/thanu2509/leetcode/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/thanu2509/leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/thanu2509/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/thanu2509/leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/thanu2509/leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Sorting
