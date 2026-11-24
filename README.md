@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/thanu2509/leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/thanu2509/leetcode/tree/master/0014-longest-common-prefix) |
 | [0485-max-consecutive-ones](https://github.com/thanu2509/leetcode/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/thanu2509/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/thanu2509/leetcode/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/thanu2509/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/thanu2509/leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/thanu2509/leetcode/tree/master/0451-sort-characters-by-frequency) |
