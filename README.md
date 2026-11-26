@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/thanu2509/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/thanu2509/leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/thanu2509/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/thanu2509/leetcode/tree/master/0027-remove-element) |
 | [0485-max-consecutive-ones](https://github.com/thanu2509/leetcode/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/thanu2509/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## String
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/thanu2509/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/thanu2509/leetcode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/thanu2509/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/thanu2509/leetcode/tree/master/0344-reverse-string) |
 ## Math
